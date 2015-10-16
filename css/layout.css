@@ -133,7 +133,7 @@ input:-moz-placeholder {
 	}
 
 .b-1{
-	background: linear-gradient(to top, #89ba75, #acde96);
+	background: linear-gradient(to top, #5FAD5F, #99DC99);
 }
 
 	.b-1 .left{
@@ -143,7 +143,7 @@ input:-moz-placeholder {
 	.b-1 a{
 		display: inline-block;
 		font-size: 50px;
-		margin-top: 10px;
+		margin-top: 9px;
 		margin-left: -1px;
 		color: #161616;
 		text-align: left;
@@ -162,13 +162,13 @@ input:-moz-placeholder {
 		font-family: 'museo_sans_cyrl700';
 		font-size: 24px;
 		color: #fff;
-		margin-top: 40px;
+		margin-top: 35px;
 	}
 
 	.b-1 img{
 		float: left;
-		margin-top: 40px;
-		margin-left: 35px;
+		margin-top: 35px;
+		margin-left: 32px;
 		margin-right: 4px;
 	}
 
