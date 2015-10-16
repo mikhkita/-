@@ -133,10 +133,15 @@ input:-moz-placeholder {
 	}
 
 .b-1{
-	background: linear-gradient(to top, #67b35d, #89db7d);
+	background: linear-gradient(to top, #06b154, #4bdc77);
 }
 
-	.b-1 h2{
+	.b-1 .left{
+		text-align: left;
+	}
+
+	.b-1 a{
+		display: inline-block;
 		font-size: 50px;
 		margin-top: 10px;
 		margin-left: -1px;
@@ -163,7 +168,7 @@ input:-moz-placeholder {
 	.b-1 img{
 		float: left;
 		margin-top: 40px;
-		margin-left: 38px;
+		margin-left: 35px;
 		margin-right: 4px;
 	}
 
